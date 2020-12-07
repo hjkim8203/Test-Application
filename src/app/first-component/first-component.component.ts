@@ -22,6 +22,7 @@ export class FirstComponentComponent implements OnInit {
     console.log('paw', this.mocha.tail.paw);
     console.log('monitor', this.monitor);
     console.log('joseph is so smart');
+    console.log('angular!');
   }
 
   // git status = show what branch; all files with changes
