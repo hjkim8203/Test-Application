@@ -37,4 +37,5 @@ export class FirstComponentComponent implements OnInit {
   // git reset HEAD = remove all files for commit
   // git add . = add all files for commit
   // cls = clear command prompt
+  // git pull origin <branch name> = from different branch, get latest code from <branch name>
 }
